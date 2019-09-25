@@ -2,6 +2,7 @@
 # Prevent users to commit their own RProject
 .Rproj.user
 .Rproj
+Rscripts.Rproj
 # Prevent users to commit their own .RData and .Rhistory in mutual area
 .RData
 .Rhistory
